@@ -1,6 +1,6 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable
+#   matter.
 education:
   courses:
   - course:  Postdoc
@@ -12,9 +12,10 @@ education:
   - course: Associate Professor
     institution: Xiamen University, School of Public Health
     year: 2019
-  
-email: "jie.zhang@xmu.edu.cn"
+    # email: "jie.zhang@xmu.edu.cn"
 highlight_name: true
+
+
 interests:
 - Artificial Intelligence
 - Computational Linguistics
@@ -27,25 +28,29 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+# - display:
+#     header: true
+#   icon: twitter
+#   icon_pack: fab
+#   label: Follow me on Twitter
+#   link: https://twitter.com/GeorgeCushen
+# - icon: graduation-cap
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
 superuser: true
 title: Jie Zhang (张洁)
 ---
 
-Jie Zhang's Group is the best!
+Research direction:
+
+Systems Epidemiology: Integrate methods and techniques from exposureome, systems biology (epiome, metabolome, proteome) and epidemiology to study health risks and molecular pathways of environmental exposures.
+
+High-throughput screening and in vitro diagnostic techniques for disease markers.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

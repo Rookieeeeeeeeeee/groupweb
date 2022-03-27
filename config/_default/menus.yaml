@@ -4,11 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Members
+  - name: Leader
     url: '#about'
     weight: 10
-  - name: Experiences
-    url: '#posts'
+  - name: Group members
+    url: '#experience'
     weight: 20
   - name: Publications
     url: '#featured'
