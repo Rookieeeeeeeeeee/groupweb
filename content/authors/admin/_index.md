@@ -21,8 +21,8 @@ interests:
 - Information Retrieval
 organizations:
 - name: Xiamen University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+  url: https://www.xmu.edu.cn/
+role: Professor of omics
 social:
 - icon: envelope
   icon_pack: fas
