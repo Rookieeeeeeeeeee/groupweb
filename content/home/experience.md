@@ -29,7 +29,7 @@ experience:
     # location: California
     date_start: '2019-09-01'
     date_end: ''
-    description: to be continue
+    description: to be continued
         
   - title: Yaru Wu
     # company: University X
@@ -38,16 +38,16 @@ experience:
     # location: California
     date_start: '2020-09-01'
     date_end: ''
-    description: to be continue
+    description: to be continued
 
   - title: Yujie Chen
     # company: GenCoin
     # company_url: ''
     # company_logo: org-gc
     # location: California
-    date_start: '2019-09-01'
+    date_start: '2020-09-01'
     date_end: ''
-    description: to be continue
+    description: to be continued
         
   - title: Shijia Liang
     # company: University X
@@ -56,7 +56,7 @@ experience:
     # location: California
     date_start: '2021-09-01'
     date_end: ''
-    description: to be continue   
+    description: to be continued   
 
   - title: Zhonghua Lu
     # company: GenCoin
@@ -73,7 +73,7 @@ experience:
         * Developing
         * Deploying
         
-  - title: to be continue 
+  - title: to be continued
     # company: University X
     # company_url: ''
     # company_logo: org-x
